@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+#cabeçalho{
+    background-color: cadetblue;
+    color: aliceblue;
+    text-align: center;
+}
+
+#corpo {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.sobre{ 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: blue;
+}
+
+.experiencias{
+color: aqua;
+font-size: 30xp;
+
+}
+
+#rodape{
+    text-align: center;
+    text-decoration: underline ;
+}
